@@ -1,6 +1,6 @@
 - The script to create the Northwind database is titled "instnwnd.sql"
 
-- In addition to the stored procedure, I have created an ExecutionLog table that is a nice-to-have to log, audit and keep track of when the stored procedure is executed. The script to create it is in the "CREATE Table ExecutionLog.sql" file on this folder
+- In addition to the stored procedure ("pr_GetOrderSummary.sql"), I have created an ExecutionLog table that is a nice-to-have to log, audit and keep track of when the stored procedure is executed. The script to create it is in the "CREATE Table ExecutionLog.sql" file on this folder
  > I added some exception handling for validating input data and adding overall robustness
  > I used concatenation and formatting to work with dates. The tests provided made use of strings for the start and end date input parameters
  > Using left join to handle possible null orders (orders with no customers)
