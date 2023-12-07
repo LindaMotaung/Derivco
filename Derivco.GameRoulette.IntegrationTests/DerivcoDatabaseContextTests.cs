@@ -12,13 +12,13 @@ namespace Derivco.GameRoulette.IntegrationTests
     /// <summary>
     /// Mocking the db representation of the db context
     /// </summary>
-    public class DerivcoDatabaseContextGTests
+    public class DerivcoDatabaseContextTests
     {
         private DerivcoDatabaseContext _derivcoDatabaseContext;
         private readonly string _bettorId;
         private readonly Mock<IUserService> _bettorServiceMock;
 
-        public DerivcoDatabaseContextGTests() 
+        public DerivcoDatabaseContextTests() 
         {
             //Creating the database in memory whenever that db context is invoked
             var dbOptions = new DbContextOptionsBuilder<DerivcoDatabaseContext>().UseInMemoryDatabase(Guid.NewGuid().ToString()).Options; //Get a random database with a new Guid each time
@@ -46,7 +46,7 @@ namespace Derivco.GameRoulette.IntegrationTests
             await _derivcoDatabaseContext.SaveChangesAsync();
 
             // Assert
-            betType.DateCreated.ShouldNotBeNull();
+            betType.DateCreated.ShouldNotBeNull(); //Validating that the bet type should not be null at the end of the Save operation
         }
     }
 }

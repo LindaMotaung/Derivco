@@ -35,11 +35,11 @@ namespace Derivco.GameRoulette.UnitTests.Features.Commands
 
             await handler.Handle(new CreateBetTypeCommand()
             {
-                Name = "Inside Bets",
+                Name = "Inside bets",
             }, CancellationToken.None);
 
             var betTypes = await _mockRepo.Object.GetAsync();
-            betTypes.Count.ShouldBe(4);
+            betTypes.Count.ShouldBe(6);
         }
     }
 }

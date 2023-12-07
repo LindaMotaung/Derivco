@@ -40,7 +40,7 @@ namespace Derivco.GameRoulette.UnitTests.Features.Queries
             var result = await handler.Handle(new GetBetTypesQuery(), CancellationToken.None);
 
             result.ShouldBeOfType<List<BetTypeDto>>();
-            result.Count.ShouldBe(3);
+            result.Count.ShouldBe(6);
         }
     }
 }
