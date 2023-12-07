@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Derivco.GameRoulette.Identity/1.0.0": {
+        "runtime": {
+          "Derivco.GameRoulette.Identity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Derivco.GameRoulette.Identity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

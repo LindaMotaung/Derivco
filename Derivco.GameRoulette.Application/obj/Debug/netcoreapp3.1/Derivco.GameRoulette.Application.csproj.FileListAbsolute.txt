@@ -1,0 +1,12 @@
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.deps.json
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.csproj.AssemblyReference.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.AssemblyInfoInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.AssemblyInfo.cs
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.csproj.CoreCompileInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.csproj.CopyComplete
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Application\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.pdb

@@ -1,0 +1,14 @@
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.deps.json
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.csproj.AssemblyReference.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.AssemblyInfoInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.AssemblyInfo.cs
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.csproj.CopyComplete
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Persistence\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Persistence.pdb

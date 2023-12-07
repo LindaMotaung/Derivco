@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Domain", "Derivco.GameRoulette.Domain\Derivco.GameRoulette.Domain.csproj", "{17BAC173-C9BD-42F2-BDE9-46EF99B2FC90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Domain", "Derivco.GameRoulette.Domain\Derivco.GameRoulette.Domain.csproj", "{17BAC173-C9BD-42F2-BDE9-46EF99B2FC90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Application", "Derivco.GameRoulette.Application\Derivco.GameRoulette.Application.csproj", "{5DF33D8F-4EE7-4D7E-B733-8CAD29F5D43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Application", "Derivco.GameRoulette.Application\Derivco.GameRoulette.Application.csproj", "{5DF33D8F-4EE7-4D7E-B733-8CAD29F5D43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Api", "Derivco.GameRoulette.Api\Derivco.GameRoulette.Api.csproj", "{CBD52E50-27DF-484C-9D32-EDF648A47261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Api", "Derivco.GameRoulette.Api\Derivco.GameRoulette.Api.csproj", "{CBD52E50-27DF-484C-9D32-EDF648A47261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Persistence", "Derivco.GameRoulette.Persistence\Derivco.GameRoulette.Persistence.csproj", "{2502B99C-BB72-4F09-84A3-7189E1296E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Persistence", "Derivco.GameRoulette.Persistence\Derivco.GameRoulette.Persistence.csproj", "{2502B99C-BB72-4F09-84A3-7189E1296E19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Identity", "Derivco.GameRoulette.Identity\Derivco.GameRoulette.Identity.csproj", "{3C595968-3582-4DBA-8A63-8BC2CA193A09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Identity", "Derivco.GameRoulette.Identity\Derivco.GameRoulette.Identity.csproj", "{3C595968-3582-4DBA-8A63-8BC2CA193A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.Infrastructure", "Derivco.GameRoulette.Infrastructure\Derivco.GameRoulette.Infrastructure.csproj", "{B4E487E1-457C-47DA-B5D7-53A370E77C08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.Infrastructure", "Derivco.GameRoulette.Infrastructure\Derivco.GameRoulette.Infrastructure.csproj", "{B4E487E1-457C-47DA-B5D7-53A370E77C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.UnitTests", "Derivco.GameRoulette.UnitTests\Derivco.GameRoulette.UnitTests.csproj", "{A9225012-C237-477A-932E-017450EF8ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivco.GameRoulette.UnitTests", "Derivco.GameRoulette.UnitTests\Derivco.GameRoulette.UnitTests.csproj", "{A9225012-C237-477A-932E-017450EF8ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivco.GameRoulette.IntegrationTests", "Derivco.GameRoulette.IntegrationTests\Derivco.GameRoulette.IntegrationTests.csproj", "{F917FC1D-B43E-425B-BB60-EA54E66C68B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A9225012-C237-477A-932E-017450EF8ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9225012-C237-477A-932E-017450EF8ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9225012-C237-477A-932E-017450EF8ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F917FC1D-B43E-425B-BB60-EA54E66C68B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F917FC1D-B43E-425B-BB60-EA54E66C68B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F917FC1D-B43E-425B-BB60-EA54E66C68B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F917FC1D-B43E-425B-BB60-EA54E66C68B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

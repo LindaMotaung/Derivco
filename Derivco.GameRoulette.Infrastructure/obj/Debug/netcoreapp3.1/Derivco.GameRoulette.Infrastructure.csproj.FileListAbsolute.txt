@@ -1,0 +1,14 @@
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.deps.json
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Application.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.Domain.pdb
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.AssemblyInfo.cs
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.csproj.CopyComplete
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.dll
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Infrastructure\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Infrastructure.pdb
