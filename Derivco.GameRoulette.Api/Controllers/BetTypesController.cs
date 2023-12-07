@@ -23,6 +23,7 @@ namespace Derivco.GameRoulette.Api.Controllers
 
         // GET: api/<BetTypesController>
         [HttpGet]
+        [Produces("application/json")]
         public async Task<List<BetTypeDto>> Get()
         {
             var betTypes = await _mediator.Send(new GetBetTypesQuery());
@@ -31,6 +32,7 @@ namespace Derivco.GameRoulette.Api.Controllers
 
         // GET api/<BetTypesController>/5
         [HttpGet("{id}")]
+        [Produces("application/json")]
         public async Task<ActionResult<BetTypeDetailsDto>> Get(int id)
         {
             var betType = await _mediator.Send(new GetBetTypeDetailsQuery(id));
@@ -42,6 +44,7 @@ namespace Derivco.GameRoulette.Api.Controllers
         [ProducesResponseType(201)]
         [ProducesResponseType(400)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [Produces("application/json")]
         public async Task<ActionResult> Post(CreateBetTypeCommand betType)
         {
             var response = await _mediator.Send(betType);
@@ -54,6 +57,7 @@ namespace Derivco.GameRoulette.Api.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesDefaultResponseType]
+        [Produces("application/json")]
         public async Task<ActionResult> Put(UpdateBetTypeCommand betType)
         {
             await _mediator.Send(betType);

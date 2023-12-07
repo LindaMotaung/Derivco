@@ -23,6 +23,7 @@ namespace Derivco.GameRoulette.Api.Controllers
 
         // GET: api/<BetAllocationsController>
         [HttpGet]
+        [Produces("application/json")]
         public async Task<ActionResult<List<BetAllocationDto>>> Get(bool isLoggedInBettor = false)
         {
             var betAllocations = await _mediator.Send(new GetBetAllocationListQuery());
@@ -31,29 +32,32 @@ namespace Derivco.GameRoulette.Api.Controllers
 
         // GET api/<BetAllocationsController>/5
         [HttpGet("{id}")]
+        [Produces("application/json")]
         public async Task<ActionResult<BetAllocationDetailsDto>> Get(int id)
         {
             var betAllocation = await _mediator.Send(new GetBetAllocationDetailQuery { Id = id });
             return Ok(betAllocation);
         }
 
-        // POST api/<LeaveAllocationsController>
+        // POST api/<BetAllocationsController>
         [HttpPost]
         [ProducesResponseType(201)]
         [ProducesResponseType(400)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [Produces("application/json")]
         public async Task<ActionResult> Post(CreateBetAllocationCommand betAllocation)
         {
             var response = await _mediator.Send(betAllocation);
             return CreatedAtAction(nameof(Get), new { id = response });
         }
 
-        // PUT api/<LeaveAllocationsController>/5
+        // PUT api/<BetAllocationsController>/5
         [HttpPut]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(400)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesDefaultResponseType]
+        [Produces("application/json")]
         public async Task<ActionResult> Put(UpdateBetAllocationCommand betAllocation)
         {
             await _mediator.Send(betAllocation);

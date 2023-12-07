@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFgmPv10KheaI+T6hiULL041g+CJGno7qyL2JdIy3bu3ZpC6eIFv6SRyg3Cfp9/Zi1r57yYDW+gPmz/Jy7/KAQ==",
+  "dgSpecHash": "p9kxFilZOPTbi+LxflyEvNgvnwwUrQB8lPEMuWxeETmQ31xZo7p4ZZpSjuF/jl92SXB8PNHNF7OeV7AJyW+6Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Persistence\\Derivco.GameRoulette.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Persistence\\Derivco.GameRoulette.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

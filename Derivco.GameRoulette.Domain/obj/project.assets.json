@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj",
       "projectName": "Derivco.GameRoulette.Domain",
-      "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj",
+      "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj",
       "packagesPath": "C:\\Users\\LMOTAUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Domain\\obj\\",
+      "outputPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

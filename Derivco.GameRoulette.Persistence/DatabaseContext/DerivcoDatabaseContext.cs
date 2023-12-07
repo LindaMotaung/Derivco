@@ -18,7 +18,7 @@ namespace Derivco.GameRoulette.Persistence.DatabaseContext
         {
             this._userService = userService;
         }
-        public DbSet<BetType> BetTypes { get; set; }
+        public DbSet<BetType> BetTypes { get; set; } //DerivcoDatabaseContext will know about a table that is modelled from this BetType class 
         public DbSet<BetAllocation> BetAllocations { get; set; }
         public DbSet<BetRequest> BetRequests { get; set; }
 

@@ -461,11 +461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Application\\Derivco.GameRoulette.Application.csproj",
+      "projectUniqueName": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Application\\Derivco.GameRoulette.Application.csproj",
       "projectName": "Derivco.GameRoulette.Application",
-      "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Application\\Derivco.GameRoulette.Application.csproj",
+      "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Application\\Derivco.GameRoulette.Application.csproj",
       "packagesPath": "C:\\Users\\LMOTAUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Application\\obj\\",
+      "outputPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -486,8 +486,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj": {
-              "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj"
+            "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj": {
+              "projectPath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Domain\\Derivco.GameRoulette.Domain.csproj"
             }
           }
         }
