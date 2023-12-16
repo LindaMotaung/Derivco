@@ -88,3 +88,4 @@ C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.A
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Api\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Api.dll
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Api\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Api.pdb
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Api\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.Api.genruntimeconfig.cache
+C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

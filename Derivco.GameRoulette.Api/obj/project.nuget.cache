@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NwU8T2JJGvjpeFPiUHfM2PG9fr3psGKyyLak5KOvgL5qr+tq2aSDw0qJB+k02yBqX84FS1iJGmZ5D+wlQ44fuw==",
+  "dgSpecHash": "ZEGwQJ5yYcnYmOWjrL91Ft59ndyi+VQd5E105hHZTsY2/2Ioit2Ny6BbZ6zSH/ZY2SZw5wVEKZxQTNRsXptcJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LMOTAUN\\Documents\\Derivco\\Project\\Submit\\Derivco\\Derivco.GameRoulette.Api\\Derivco.GameRoulette.Api.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,10 @@
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.0.0\\microsoft.entityframeworkcore.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.0.0\\microsoft.entityframeworkcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.0.0\\microsoft.entityframeworkcore.design.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.0.0\\microsoft.entityframeworkcore.relational.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.0.0\\microsoft.entityframeworkcore.sqlserver.3.0.0.nupkg.sha512",
+    "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.0.0\\microsoft.entityframeworkcore.tools.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.0.0\\microsoft.extensions.caching.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\LMOTAUN\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.0.0\\microsoft.extensions.caching.memory.3.0.0.nupkg.sha512",
