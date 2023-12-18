@@ -9,7 +9,6 @@ C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.U
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.pdb
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.Views.dll
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\bin\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.Views.pdb
-C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.csproj.AssemblyReference.cache
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.AssemblyInfoInputs.cache
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.AssemblyInfo.cs
 C:\Users\LMOTAUN\Documents\Derivco\Project\Submit\Derivco\Derivco.GameRoulette.UI\obj\Debug\netcoreapp3.1\Derivco.GameRoulette.UI.csproj.CoreCompileInputs.cache

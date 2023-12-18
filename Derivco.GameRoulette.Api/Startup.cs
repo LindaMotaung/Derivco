@@ -5,6 +5,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Swashbuckle.AspNetCore.Swagger;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using Derivco.GameRoulette.Identity.DbContext;
+using Derivco.GameRoulette.Application.Contracts.Identity;
+using Derivco.GameRoulette.Identity.Services;
+using Derivco.GameRoulette.Identity.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace Derivco.GameRoulette.Api
 {
@@ -25,6 +31,15 @@ namespace Derivco.GameRoulette.Api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Derivco API", Version = "v1" });
             });
+            services.AddDbContext<DerivcoIdentityDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DerivcoDatabaseConnectionString")));
+            //services.AddScoped<IAuthService, AuthService>();
+
+            services.AddIdentity<ApplicationUser, IdentityRole>()
+            .AddEntityFrameworkStores<DerivcoIdentityDbContext>()
+            .AddDefaultTokenProviders();
+
+            services.AddDbContext<DerivcoIdentityDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DerivcoDatabaseConnectionString")), ServiceLifetime.Scoped);
+            services.AddScoped<IAuthService, AuthService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -6,8 +6,8 @@ namespace Derivco.GameRoulette.Application.Contracts.Identity
 {
     public interface IUserService
     {
-        Task<List<Bettor>> GetBettors();
-        Task<Bettor> GetBettor(string bettorId);
+        Task<List<Bettor>> GetBettors(); //Retrieve all bettors in the system
+        Task<Bettor> GetBettor(string bettorId); //Get a single bettor in the system 
         public string BettorId { get; }
     }
 }
